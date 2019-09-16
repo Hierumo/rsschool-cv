@@ -1,1 +1,1 @@
-# rsschool-cv
+# [Check my CV on GitHub Pages](https://hierumo.github.io/rsschool-cv/cv)
