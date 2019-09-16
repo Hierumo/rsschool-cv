@@ -43,4 +43,13 @@
 }());
 ```
 
-## 
+## Professional Experience
+* actually, I never was in commercial development
+* but in my Past I was worked for the bug-tracking system OOO Keysystems for budget-accounting app as a tester
+* freelancing as content-manager
+
+## Education
+* **Penza State Technological University**  - Specialist economist-manager (graduated in 2013)
+
+## English
+Upper Intermediate (B2)
