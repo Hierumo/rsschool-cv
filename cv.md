@@ -17,6 +17,7 @@
 ## Code examples
 ```javascript
 (function trader() {
+    "use strict";
     let calculate = document.body.querySelector('.calculate');
     let clear = document.body.querySelector('.clear');
     let result = document.body.querySelector('.result');
